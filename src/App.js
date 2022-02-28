@@ -39,6 +39,15 @@ const App = () => {
                                     Well don't worry I'm going to explain all that and more in the above information post.
 
                                 </p>
+
+                                <p className='mb-3'>
+                                    Or maybe you want a rundown of some of the best <em><Link to='/posts/strategies' className='badge text-white bg-warning'>strategies.</Link></em>{'  '}
+                                    Here we will outline what I call the basic strategy as well as some variations of that.
+                                </p>
+
+                                <p>
+                                    Or maybe you are after something specific, like how to fly a <em><Link to='/posts/helicopter' className='badge text-white bg-info'>helicopter</Link></em>, or how to .
+                                </p>
                             </section>
                         </article>
                     </main>
